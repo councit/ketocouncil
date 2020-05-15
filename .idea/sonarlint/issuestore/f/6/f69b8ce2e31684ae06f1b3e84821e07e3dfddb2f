@@ -1,4 +1,12 @@
 
-TWeb:TableWithoutCaptionCheck;" Add a description to this table.(¿‰˜ÿÿÿÿÿ8ò¶²ä.
-s Web:TableHeaderHasIdOrScopeCheck=";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ï–ßóüÿÿÿÿ8ò¶²ä.
-n Web:TableHeaderHasIdOrScopeCheck>";Add either an 'id' or a 'scope' attribute to this <th> tag.(ïáÈÆ8ò¶²ä.
+t Web:TableHeaderHasIdOrScopeCheck“";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ú®Úşÿÿÿÿ8í÷µ.
+o Web:TableHeaderHasIdOrScopeCheck—";Add either an 'id' or a 'scope' attribute to this <th> tag.(ïáÈÆ8ò¶²ä.
+UWeb:TableWithoutCaptionCheck¯" Add a description to this table.(¿‰˜ÿÿÿÿÿ8í÷µ.
+‹	Web:S5148/"oAdd rel="noopener noreferrer" to this link to prevent the original page from being modified by the opened link.(¿Øª±8í÷µ.
+	Web:S5148v"oAdd rel="noopener noreferrer" to this link to prevent the original page from being modified by the opened link.(»®ƒÜøÿÿÿÿ8í÷µ.
+t Web:TableHeaderHasIdOrScopeCheck³";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ï–ßóüÿÿÿÿ8í÷µ.
+o Web:TableHeaderHasIdOrScopeCheck´";Add either an 'id' or a 'scope' attribute to this <th> tag.(ïáÈÆ8í÷µ.
+t Web:TableHeaderHasIdOrScopeCheck–";Add either an 'id' or a 'scope' attribute to this <th> tag.(Ï–ßóüÿÿÿÿ8ò¶²ä.
+t Web:TableHeaderHasIdOrScopeCheck°";Add either an 'id' or a 'scope' attribute to this <th> tag.(îÇŠ‘ùÿÿÿÿ8í÷µ.
+UWeb:TableWithoutCaptionCheck’" Add a description to this table.(¿‰˜ÿÿÿÿÿ8ò¶²ä.
+PWeb:AvoidCommentedOutCodeCheck"Remove this commented out code.(å´Ô8 ©Ù’.
